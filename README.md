@@ -3,4 +3,4 @@
 
 
 Check out some of my other projects in this short 2m video!
-![Video](/Some%20Other%20Projects.mp4)
+https://www.youtube.com/watch?v=yTmrJB4P9w0
