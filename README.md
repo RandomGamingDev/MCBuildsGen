@@ -2,7 +2,7 @@
 ### This contains an older version of the core training script. However, do note that there are external scripts not included including the post-processor for the AI's generated result.
 <br/><br/><br/>
 
-Some of the uploading didn't workndue to technical issues, meaning that I wasn't able to upload everything so <br/>
+Some of the uploading didn't work due to technical issues, meaning that I wasn't able to upload everything so <br/>
 
 ### Check out some of my other projects in this short 2m video!
 https://www.youtube.com/watch?v=yTmrJB4P9w0
