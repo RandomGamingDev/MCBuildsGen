@@ -4,8 +4,7 @@
 
 Some of the uploading didn't work due to technical issues, meaning that I wasn't able to upload everything so <br/>
 
-### Check out some of my other projects in this short 2m video!
-https://www.youtube.com/watch?v=yTmrJB4P9w0
+### Check out some of my other projects in this short 2m video! https://www.youtube.com/watch?v=yTmrJB4P9w0
 
 <br/><br/><br/>
 In order for the diffusion model to understand colors I'm currently using the average color of a block's texture, with the textures being sourced from this custom asset extractor:
