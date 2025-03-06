@@ -1,5 +1,5 @@
 # 🚧 Work-in-Progress 🚧
-### This contains an older version of the core training script (the one originally used). However, do note that there are external scripts not included including the post-processor for the AI's generated result.
+### This contains an older stable version of the core training script (the one originally used). However, do note that there are external scripts not included including the post-processor for the AI's generated result.
 <br/><br/><br/>
 
 Some of the uploading didn't work due to technical issues, meaning that I wasn't able to upload everything so <br/>
